@@ -1,0 +1,2 @@
+# sparc_new_agent_compare
+对比了agent不自检，单agent自检和第二个agent信息不够情况下自检在sparC数据集上的表现
